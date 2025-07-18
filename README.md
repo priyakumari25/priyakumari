@@ -33,5 +33,12 @@ I’m an Android Developer turned aspiring Data Analyst. With a background in mo
 
 ---
 
+## 📁 Projects
+
+- 🔷 Power BI Sales Dashboard  
+- 🧮 Python capstone using Pandas  
+- 📈 SQL Data Cleaning & Analysis
+- 📊 Excel project for real world Data Analysis
+
 Thanks for visiting my GitHub!
 
